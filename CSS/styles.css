@@ -104,8 +104,8 @@ a:visited {
 }
 
 .stars-top {
-  max-width: 280px;
-  max-height: 280px;
+  width: 280px;
+  height: 280px;
   position: absolute;
   top: 53px;
   left: 23%;
@@ -117,16 +117,16 @@ a:visited {
 }
 
 .stars {
-  max-width: 280px;
-  max-height: 280px;
+  width: 280px;
+  height: 280px;
   position: absolute;
   top: 36%;
   left: 45%;
 }
 
 .cloud {
-  max-height: 200px;
-  max-width: 200px;
+  height: 200px;
+  width: 200px;
   position: absolute;
   right: 12%;
   top: 7%;
@@ -154,8 +154,8 @@ a:visited {
 }
 
 .astro {
-  max-height: 120px;
-  max-width: 120px;
+  height: 120px;
+  width: 120px;
   position: absolute;
   left: 60%;
   top: 70%;
